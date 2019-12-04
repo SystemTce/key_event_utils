@@ -1,8 +1,8 @@
 name: key_event_utils
 description: A barcode scanner key event utils
 version: 0.0.1
-author:
-homepage:
+author: System Tce <systemtce@gmail.com>
+homepage: https://github.com/SystemTce/key_event_utils.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
